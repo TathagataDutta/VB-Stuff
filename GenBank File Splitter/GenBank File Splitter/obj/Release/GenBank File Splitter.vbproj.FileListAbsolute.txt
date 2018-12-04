@@ -1,0 +1,12 @@
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\bin\Release\GenBank File Splitter.exe.config
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\bin\Release\GenBank File Splitter.exe
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\bin\Release\GenBank File Splitter.pdb
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\bin\Release\GenBank File Splitter.xml
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank_File_Splitter.MainForm.resources
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank_File_Splitter.Resources.resources
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank File Splitter.vbproj.GenerateResource.cache
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank File Splitter.vbproj.CoreCompileInputs.cache
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank File Splitter.exe
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank File Splitter.xml
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank File Splitter.pdb
+D:\DNA Work\VB\GenBank File Splitter\GenBank File Splitter\obj\Release\GenBank File Splitter.vbprojResolveAssemblyReference.cache
