@@ -1,0 +1,13 @@
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\bin\Release\DNA_Graph.exe.config
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\bin\Release\DNA_Graph.exe
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\bin\Release\DNA_Graph.pdb
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\bin\Release\DNA_Graph.xml
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.vbprojResolveAssemblyReference.cache
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.vbproj.ResolveComReference.cache
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.MainForm.resources
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.Resources.resources
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.vbproj.GenerateResource.cache
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.vbproj.CoreCompileInputs.cache
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.exe
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.xml
+D:\DNA Work\VB\DNA_Graph\DNA_Graph\obj\Release\DNA_Graph.pdb
